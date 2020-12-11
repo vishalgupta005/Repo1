@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 945A-DEEC
-
- Directory of C:\Users\vishal\Desktop\GIT\GitTest
-
-12/11/2020  11:51 AM    <DIR>          .
-12/11/2020  11:51 AM    <DIR>          ..
-12/11/2020  11:51 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  414,323,257,344 bytes free
+test1.txt
